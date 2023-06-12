@@ -17,7 +17,7 @@ namespace ConsoleApp4
                 int product = GetProduct(arr, sum);
                 decimal quotient = GetQuotient(product);
 
-                Console.WriteLine($"Your array is size: {arr.Length}");
+                Console.WriteLine($"Your array is size: {size}");
                 Console.WriteLine($"The numbers in the array are {string.Join(',', arr)}");
                 Console.WriteLine($"The sum of the array is {sum}");
                 int chosenNumber = product / sum;
