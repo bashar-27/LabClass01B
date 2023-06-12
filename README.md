@@ -1,3 +1,5 @@
+<h1> Code In Summary</h1>
+<hr>
 
 1. The program starts by prompting the user to enter a number greater than zero.
 2. An array is created with a size based on the user's input.
