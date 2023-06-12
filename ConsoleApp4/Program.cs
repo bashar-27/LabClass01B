@@ -45,6 +45,7 @@ namespace ConsoleApp4
             return arr;
 
         }
+        //get sum
         static int GetSum(int [] arr)
         {
             int sum = 0;
